@@ -11,11 +11,12 @@
 -   [Git](#git)
 
 -   [HTML and CSS](#html-and-css)
+
     -   [Bootstrap](#bootstrap)
     -   [Tailwind](#tailwind)
--   [IDE and editors](#ide-and-editors)
--   [Java](#java)
+
 -   [JavaScript](#javascript)
+
     -   [Angular](#angular)
     -   [jQuery](#jquery)
     -   [Next.js](#nextjs)
@@ -23,29 +24,21 @@
     -   [React](#react)
     -   [Svelte](#svelte)
     -   [Vue.js](#vuejs)
--   [Kotlin](#kotlin)
+
 -   [Linux](#linux)
 -   [MongoDB](#mongodb)
 -   [MySQL](#mysql)
--   [PHP](#php)
-    -   [Laravel](#laravel)
+
 -   [Programming paradigms](#programming-paradigms)
 -   [Python](#python)
+
     -   [Django](#django)
     -   [Flask](#flask)
--   [Scratch](#scratch)
+
 -   [Shell scripting](#shell-scripting)
 -   [Swift](#swift)
 -   [TypeScript](#typescript)
 -   [WordPress](#wordpress)
-
-### Android
-
--   [Android Bangla Tutorials](https://www.youtube.com/playlist?list=PLgH5QX0i9K3p9xzYLFGdfYliIRBLVDRV5) - Anisul Islam
--   [Android Firebase Bangla Tutorials](https://www.youtube.com/playlist?list=PLgH5QX0i9K3oDurEmECb5U_BZ1hrLaHx-) - Anisul Islam
--   [Android SQLite Database Bangla Tutorials](https://www.youtube.com/playlist?list=PLgH5QX0i9K3oJBRutwsFgUKrKJCjv9K3p) - Anisul Islam
--   [Android Tutorials Material Design](https://www.youtube.com/playlist?list=PLgH5QX0i9K3ru-TfN-YsRWKe4EEOLrWjn) - Anisul Islam
--   [Java, OOP & Android tutorials for beginners in Bengali](https://www.youtube.com/playlist?list=PLV3rqOvr9vgkmELwlSouvJtROQ6MWRbIH) - Zulkarnine Mahmud
 
 ### C
 
@@ -106,13 +99,6 @@
 -   [Git and Github in One Video (Theory + Practical) \| A 2 Z in Bangla](https://www.youtube.com/watch?v=4KdGgGsIDeA) - SHAJ.T3CH
 -   [Git Bangla Tutorial Complete](https://www.youtube.com/playlist?list=PL_XxuZqN0xVDDw5eyzuRDXBzgdnW7UpDF) - Stack Learner
 
-### Go
-
--   [Bangla Go/Golang Course](https://www.youtube.com/playlist?list=PLHkC-Z1xxZM7y5XxlZFQmI-M8jsAI2AQd) - Backend Ninja
--   [Go Bangla Tutorials 2022](https://www.youtube.com/playlist?list=PLgH5QX0i9K3rtasmmoS_EWXdg0X-eX_x8) - Anisul Islam
--   [Golang কোডিং বুট ক্যাম্প ক্লাস](https://youtube.com/playlist?list=PLZij6bgEHkTXRakAtponkmP2CmlTTKlxl) - MASTER-ACADEMY
--   [Golang Web Development Bangla](https://www.youtube.com/playlist?list=PLF4a815a8kFzPOFGV7uXsm2j1Of9cCwpx) - Learn with Raihan
-
 ### HTML and CSS
 
 -   [CSS Bangla Tutorial](https://www.youtube.com/playlist?list=PLm64fbD5Onxvj4aifOC8P8U8inUqWzdSH) - Moshiur
@@ -140,23 +126,6 @@
 -   [Tailwind CSS Bangla Tutorial Series](https://youtube.com/playlist?list=PLHiZ4m8vCp9P23SqlHL0QAqiwS_oCofV2) - Learn with Sumit
 -   [Tailwind CSS Tutorials in Bangla](https://www.youtube.com/playlist?list=PLerpoOYRrjUxnfWO73zj2R_y-e_Dw1ine) - Programming Shikhbo
 
-### IDE and editors
-
--   [How to save coding time using sublime text (bangla)](https://www.youtube.com/playlist?list=PLPkEK3TrAJ1Pi8IUcA9Ldm81ZCVCA_bIm) - Sharif Chowdhury
--   [Notepad++ tutorial in Bangla for beginner](https://www.youtube.com/playlist?list=PLf3nMuwgaMb24VtxNGQcUKr2NVenMkzGC) - Community Solution IT
--   [Sublime Text 3 Bangla Tutorial - (Beginners to Advanced)](https://www.youtube.com/playlist?list=PLgV8FC0EoxMcKrw5VydxZAZ0ZivXWL_ej) - Positive World
--   [VSCode Complete Tutorial Series \| VSCode টিউটোরিয়াল সিরিজ](https://www.youtube.com/playlist?list=PL_XxuZqN0xVB_lroSm_xvTqvVBCpR4PQE) - Stack Learner
--   [VSCode Power Tips](https://www.youtube.com/playlist?list=PLoR56CteKZnBmefc8NTiG8GOHlU1vN3-F) - Learn with Hasin Hayder
-
-### Java
-
--   [জাভা এন্টারপ্রাইজ এডিশন](https://dimikcomputing.com/course/javaee-online-course/) - দ্বিমিক কম্পিউটিং
--   [Java Bangla (বাংলা) tutorial for beginners](https://youtube.com/playlist?list=PL82MewGFQkx1jjozz7I98Yjanw8n6p9HP) - Time & Training
--   [Java Bangla Tutorials \| CORE Java \| Complete OOP](https://www.youtube.com/playlist?list=PLgH5QX0i9K3oAZUB2QXR-dZac0c9HNyRa) - Anisul Islam
--   [Java Basic Syntax Bangla Tutorial](https://www.youtube.com/playlist?list=PLdl6zXgLsy3xCae1uL6rJ8Ay9sIiyBy5I) - Bangla Coding Tutor
--   [Java Course! Full Course Bangla](https://www.youtube.com/playlist?list=PLysy6TYSMvpJmMN0ElbC936RmmFustDiy) - Online Course
--   [Java Swing Bangla Tutorials](https://www.youtube.com/playlist?list=PLgH5QX0i9K3rAHKr6IteF5kdgN6BorH9l) - Anisul Islam
-
 ### JavaScript
 
 -   [DOM: Client Side Javascript](https://www.youtube.com/playlist?list=PL_XxuZqN0xVA10Q5UxbhG3zTPpe_ZdDGg) - Stack Learner
@@ -172,14 +141,6 @@
 -   [Modern JavaScript Bangla Tutorials](https://www.youtube.com/playlist?list=PL4iFnndHlduhY_C69D8XSVqG7IOdbzmfb) - JS Bangladesh
 -   [Modern JavaScript ES6 Bangla Tutorial](https://www.youtube.com/playlist?list=PLHiZ4m8vCp9MFjMRp9EEHWKArbi0wdgXG) - Sumit Saha (Learn with Sumit)
 -   [Play with DOM - Bangla](https://www.youtube.com/playlist?list=PLHiZ4m8vCp9MJDxMOzhYVuTrO1b5n-Tq_) - Sumit Saha (Learn with Sumit)
-
-#### Angular
-
--   [Angular 12 Easy Tutorial in Bangla](https://www.youtube.com/playlist?list=PLEfqpT48xB4H2gOHDzs2dm_ZmoECuTHtR) - web-man
--   [Angular full tutorial series for Beginners in Bangla](https://www.youtube.com/playlist?list=PLBcycf_KNrYpgj_yzcNgW9I3_2fpiGXXg) - Learn With Rashed
--   [Angular Tutorials for Beginners in Bangla](https://www.youtube.com/playlist?list=PLDP_-KW5VxNRqG7317GyBlOwvtxP6d-LE) - miTechSoln
--   [AngularJS bangla tutorial](https://www.youtube.com/playlist?list=PLZURtcoL43SUpJj_n_yGoqM4RMqQoBbst) - tutplus24
--   [Angularjs bangla tutorial basic](https://www.youtube.com/playlist?list=PLbC4KRSNcMnr2ZFQne_jotsiX9hGwLJHG) - Learn Hunter
 
 #### jQuery
 
@@ -210,15 +171,6 @@
 -   [Understand ReactJS Advanced Features](https://www.youtube.com/playlist?list=PL_XxuZqN0xVBaeF3qUyvr2AxoXGwDd5cx) - Stack Learner
 -   [Understand ReactJS Core Features](https://www.youtube.com/playlist?list=PL_XxuZqN0xVBANld2gDEE6_0G886zavUs) - Stack Learner
 
-#### Svelte
-
--   [Svelte 3: The Game Changer (Bangla Crash Course)](https://www.youtube.com/playlist?list=PL_XxuZqN0xVDJOOYnZxK-fbKxjxFHfc-H) - Stack Learner
-
-#### Vue.js
-
--   [Introduction to Vue.js in Bangla বাংলা with a full Project - Vue Crash Course](https://www.youtube.com/watch?v=iIvN7upsLoA) - Learn with Sumit
--   [Vue JS 3 Bangla Tutorial](https://www.youtube.com/playlist?list=PLZ8kLhUbDAhADR0nUr2rwhOD0smxVZX-x) - Mamunur Rashid
-
 ### Kotlin
 
 -   [Android Development with Kotlin - Bangla](https://www.youtube.com/playlist?list=PLdHSoHQhVWlOmjBoSXSdJl3CrqBOKIrLp) - MKH Russell
@@ -244,17 +196,6 @@
 -   [mysql bangla tutorial \| Mysql Database \| HSC,CSE, Anyone](https://www.youtube.com/playlist?list=PLbC4KRSNcMnqp4x6XstgFCVi6XVu37t99) - Sohidul Islam, Learn Hunter
 -   [MySql Database Bangla Tutorial Beginner to Advanced](https://www.youtube.com/playlist?list=PLH246IZCIBeA4h1R6fdgK06kj9lMb3joi) - Shoaib Hossain, Soft-All
 -   [MySQL Database Bangla Tutorials (HSC student / Anyone)](https://www.youtube.com/playlist?list=PLgH5QX0i9K3qLcx9DvVDWmNJ7riPvxzCD) - Anisul Islam
-
-### PHP
-
--   [PHP All You Need To Know](https://www.youtube.com/playlist?list=PL_XxuZqN0xVCFLIrGA1GaxacvPTDQcsMV) - Stack Learner
--   [PHP Bangla Tutorial - Basic To Advanced](https://www.youtube.com/playlist?list=PL4iFnndHldui-0507zycrQBo_HFU8-mi9) - JS Bangladesh
--   [php bangla tutorial for beginners \| php8 bangla tutorial](https://www.youtube.com/playlist?list=PLbC4KRSNcMnqBfSoiU5TG7FF4FQmCpoSp) - Learn Hunter
--   [PHP OOP Bangla Tutorial \| Object Oriented Programming Bangla Tutorial](https://www.youtube.com/playlist?list=PLJC7GfA2DHaAFmx7JppHrrFfsCNLeKn9G) - Technology Village
-
-#### Laravel
-
--   [Restapi Bangla tutorial \| Laravel & Lumen Api development](https://www.youtube.com/playlist?list=PLbC4KRSNcMnoQONzuNtFlhEzegTYadoBY) - Learn Hunter
 
 ### Programming paradigms
 
@@ -285,12 +226,6 @@
 #### Flask
 
 -   [Flask Web Development with python (Bangla)](https://www.youtube.com/playlist?list=PL5WWFMzXof5hA8cLzEoim7BEkHcmddbOK) - Naimul Hawk
-
-### Scratch
-
--   [Scratch Programming](https://youtube.com/playlist?list=PLtEypp6e7UDBfNhRt9x3N89mJKl0PztHH) - bdOSN
--   [Scratch Programming for Kids Bangla](https://youtube.com/playlist?list=PLkWIEmwZeYzqpPfmJdlXKgjxrCu47Gfaz) - Opportunities For Kids
--   [Scratch Programming in Bangla](https://youtube.com/playlist?list=PLym69wpbTIIEkUnqkOznZfQU6lRxebpO3) - Tamim Shahriar
 
 ### Shell scripting
 

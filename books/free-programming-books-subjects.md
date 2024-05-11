@@ -9,8 +9,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 
 -   [Algorithms & Data Structures](#algorithms--data-structures)
 -   [Artificial Intelligence](#artificial-intelligence)
--
--   [Cellular Automata](#cellular-automata)
+
 -   [Cloud Computing](#cloud-computing)
 -   [Competitive Programming](#competitive-programming)
 -   [Compiler Design](#compiler-design)
