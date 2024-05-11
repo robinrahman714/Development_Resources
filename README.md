@@ -12,7 +12,7 @@ This project lists books and other resources grouped by genres:
 
 ### Cheat Sheets
 
--   [All Languages](more/free-programming-cheatsheets.md)
+-   [All Programming Languages and Tools](more/free-programming-cheatsheets.md)
 
 ### Free Online Courses
 
